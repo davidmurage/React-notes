@@ -3,7 +3,7 @@
 <button>Speak</button>*/}
 
 
-//js 
+//js usage and implementation
 button = document.querySelector("button");
 text = document.querySelector("textarea");
 button.addEventListener('click', () => {
