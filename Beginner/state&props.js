@@ -1,4 +1,4 @@
-//passing data from parent to child component(props)
+//passing data from parent component to child component(props)
 import React from "react"
 
 
