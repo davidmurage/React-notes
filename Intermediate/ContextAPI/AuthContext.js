@@ -1,3 +1,4 @@
+//code for authentication of users
 import React, { createContext, useState, useContext } from 'react';
 
 const AuthContext = createContext();
