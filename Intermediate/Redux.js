@@ -1,7 +1,7 @@
 {/* Redux is a state management library commonly used with React to handle the application state in a more organized and predictable way. 
 It helps manage the state of your application in a central store, making it easier to maintain, debug, and scale.*/}
 
-//code implementation
+//code implementation of redux
 import { createStore } from 'redux';
 
 // Define the initial state of the application
