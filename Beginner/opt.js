@@ -1,3 +1,4 @@
+//js opt implementation
 let generateOTP = () => {
     //define the length of the OTP
     const otpLength = 6;
