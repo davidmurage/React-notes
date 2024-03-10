@@ -1,3 +1,4 @@
+//code implementation of HOCs
 import React from 'react';
 
 // HOCs 
