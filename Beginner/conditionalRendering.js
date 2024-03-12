@@ -1,4 +1,4 @@
-//code implementation
+//code implementation of conditionals
 import React, { useState } from 'react'
 
 const ConditionalRendering = () => {
