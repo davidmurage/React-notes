@@ -1,7 +1,7 @@
 //code implementation of conditionals
 import React, { useState } from 'react'
 
-const ConditionalRendering = () => {
+const conditionalRendering = () => {
 
     const[isLoggedIn, setLoggedIn] = useState(false)
 
