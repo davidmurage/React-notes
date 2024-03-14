@@ -16,7 +16,7 @@ const conditionalRendering = () => {
             {/*conditional rendering based on isLoggedIn state*/}
             {isLoggedIn ? (<p>Welcome, User!, You are logged in</p>
             ):(
-            <p>Please login to access content</p>
+            <p>Please login to access </p>
             )}
 
             {/* Button to toggle the login state */}
